@@ -1,0 +1,383 @@
+.nav{
+    width: 100%;
+    height:661px;
+    padding-top: 40px;
+}
+body{
+    margin: 0;
+}
+.logo{
+    width: 10%;
+    height: 10px;
+    float: left;
+    margin-left: 125px;
+}
+.list{
+    width: 70%;
+    height: 150px;
+   float: left;
+}
+li{
+    float: left;
+    padding-left: 27px;
+    list-style-type:none ;
+    font-family: "Costa Text Regular", sans-serif;
+    color:#fff;
+    font-weight: bold;
+    font-size: 20px;
+    
+
+
+
+}
+.bgvedio{
+    background-size: cover;
+    position: absolute;
+}
+video{
+    object-fit: cover;
+    width: 100%;
+    height: 700px;
+    top: 0;
+    left: 0;
+    z-index: -100;
+}
+.list{
+    z-index: 1;
+    margin-left: 2px;
+    margin-top: 2px;;
+   font-size: 18px;
+   font-family: "Costa Text Regular", sans-serif;
+}
+.costa{
+    width: 200px;
+    height: 80px;
+}
+.secondpage{
+    background-image: url(images/wavy-background-180786598e741294f08ecaf1990ddc76.png);
+    width: 100%;
+    height: 650px;
+   
+}
+.innerbox{
+    height: 500px;
+    width: 90%;
+    margin-left: 70px;
+    padding-top: 70px;
+   
+}
+.innerbox1{
+    height: 500px;
+    width: 50%;
+    background-color: blue;
+    float: left;
+}
+.innerbox2{
+    height: 512px;
+    width: 50%;
+    background-color: rgb(176, 221, 245);
+    float: left;
+}
+.secondpage2{
+    background-image: url(images/wavy-background-180786598e741294f08ecaf1990ddc76.png);
+    width: 100%;
+    height: 650px;
+   
+}
+.innerbox-2{
+    height: 500px;
+    width: 90%;
+    margin-left: 70px;
+    padding-top: 70px;
+   
+
+}
+.innerbox1-2{
+    height: 512px;
+    width: 50%;
+    float: left;
+    background-color:rgb(207, 168, 202);
+    float : left;
+
+}
+.innerbox2-2{
+    height: 500px;
+    width: 50%;
+    background-color: rgb(2, 28, 42);
+    float: left;
+}
+.secondpage3{
+    background-image: url(images/wavy-background-180786598e741294f08ecaf1990ddc76.png);
+    width: 100%;
+    height: 650px;
+}
+.innerbox-3{
+    height: 500px;
+    width: 90%;
+    margin-left: 70px;
+    padding-top: 70px;
+}
+.innerbox1-3{
+    height: 500px;
+    width: 50%;
+    background-color: blue;
+    float: left;
+}
+.innerbox2-3{
+    height: 512px;
+    width: 50%;
+    background-color:rgb(238, 125, 128);
+    float: left;
+}
+.secondpage4{
+    background-image: url(images/wavy-background-180786598e741294f08ecaf1990ddc76.png);
+    width: 100%;
+    height: 650px;
+   
+}
+.innerbox-4{
+    height: 500px;
+    width: 90%;
+    margin-left: 70px;
+    padding-top: 70px;
+}
+.innerbox1-4{
+    height: 500px;
+    width: 50%;
+    background-color: rgb(239, 160, 33);
+    float: left;
+}
+.innerbox2-4{
+    height: 500px;
+    width: 50%;
+    background-color: blueviolet;
+    float: left;
+}
+.text1{
+    font-size: 18px;
+    line-height: 28px;
+}  
+.para1{
+    padding-left: 150px;
+    padding-top: 2px;
+
+}
+.head{
+    margin-left: 263px;
+    padding-top: 45px;
+
+    
+}
+.image1{
+    background:cover;
+}
+.para2{
+    padding-left: 150px;
+    padding-top: 27px;
+    
+}
+p{
+    color: rgb(109, 31, 55);
+    font-size: 18px;
+    line-height: 28px;
+    font-family: "Costa Text Regular", sans-serif;
+}
+.head1{
+    margin-left: 263px;
+    padding-top: 36px;
+
+}
+.para3{
+    padding-left: 150px;
+    padding-top: -4px;
+    
+}
+.head2{
+    margin-left: 165px;
+    padding-top: 53px;
+
+}
+.image3{
+    width: 100%;
+    height: 500px;
+}
+.head3{
+    margin-left: 144px;
+    padding-top: 122px;
+}
+
+.para4{
+    padding-left: 150px;
+    padding-top: -4px;
+}
+.footer{
+    height: 600px;
+    width :100%;
+
+    
+}
+.footerbox1{
+height: 69%;
+width :100%;
+background-color: rgb(181, 17, 68);
+}
+.footerbox2{
+    height: 40%;
+    width: 100%;
+    background-color: rgb(109, 31, 55);
+    color: #fff;
+    padding-top: 10px;
+
+}
+.footercontent1{
+
+    height: 372px;
+    width: 305px;
+    font-family: "Costa Text Regular", sans-serif;
+    float: left;
+}
+.footercontent1 li{
+    padding-left: 167px;
+}
+
+.footerheading1{
+    padding-top: 88px;
+    padding-left: 196px;
+    color: #fff;
+}
+li{
+    font-size: 16px;
+    line-height: 33px;
+    font-weight: 10px;
+    
+}
+.footercontent2{
+    padding-top: 80px;
+    padding-left: 100px;
+    float: left;
+    height: 291px;
+    width: 242px;
+    font-family: "Costa Text Regular", sans-serif;
+   
+
+}
+
+.info{
+   color: #fff;
+   padding-left: 10px;
+   padding-bottom:10px ;
+}
+.footercontent3{
+    height: 372px;
+    width: 242px;
+    font-family: "Costa Text Regular", sans-serif;
+    float: left;
+}
+.footerheading3{
+    color: #fff;
+    padding-left: 63px;
+    padding-top: 82px;
+    font-size: 18px;
+}
+ .footerheading2{  
+     padding-top: 10px;
+     color: #fff;
+     padding-left: 48px;
+     font-size: 18px;
+
+}
+.footercontent3 li{
+    float: unset;
+}
+.policy{
+    padding-left: 110px;
+    font-family: "Costa Text Regular", sans-serif;
+    line-height: 52px;
+}
+.icon1{
+    padding-left: 10px;
+    width: 15px;
+}
+.icon2{
+    padding-left: 12px;
+    width: 27px;
+}
+.icon3{
+    padding-left: 10px;
+    width: 27px;
+}
+.footerbox3{
+padding-left: 99px;
+}
+.button1{
+    width: 327px;
+    height: 70px;
+    border-radius: 53px;
+    margin-left: 193px;
+    margin-top: 59px;
+    background-color:rgb(109, 31, 55);
+
+}
+.button2{
+    width: 327px;
+    height: 70px;
+    border-radius: 53px;
+    margin-left: 193px;
+    margin-top: 59px;
+    background-color:rgb(109, 31, 55);
+
+}
+.button3{
+    width: 327px;
+    height: 70px;
+    border-radius: 53px;
+    margin-left: 193px;
+    margin-top: 59px;
+    background-color:rgb(109, 31, 55);
+
+}
+.button4{
+    width: 327px;
+    height: 70px;
+    border-radius: 53px;
+    margin-left: 193px;
+    margin-top: 59px;
+    background-color:rgb(109, 31, 55);
+
+}
+.icontext1{
+    width: 187px;
+    height: 108px;
+    color: #fff;
+    padding-top: 22px;
+    margin-left: 63px;
+    
+
+}
+
+.icontext2{
+    width: 187px;
+    height: 108px;
+    color: #fff;
+    padding-top: 22px;
+    margin-left: 76px;
+}
+.icontext3{
+    width: 187px;
+    height: 108px;
+    color: #fff;
+    padding-top: 22px;
+    margin-left: 111px;
+}
+.icontext4{
+    width: 187px;
+    height: 108px;
+    color: #fff;
+    padding-top: 22px;
+    margin-left: 106px;
+}
+
+
+
+
+
